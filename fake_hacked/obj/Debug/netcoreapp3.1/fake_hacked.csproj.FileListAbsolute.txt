@@ -1,0 +1,13 @@
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\bin\Debug\netcoreapp3.1\fake_hacked.exe
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\bin\Debug\netcoreapp3.1\fake_hacked.deps.json
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\bin\Debug\netcoreapp3.1\fake_hacked.runtimeconfig.json
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\bin\Debug\netcoreapp3.1\fake_hacked.runtimeconfig.dev.json
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\bin\Debug\netcoreapp3.1\fake_hacked.dll
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\bin\Debug\netcoreapp3.1\fake_hacked.pdb
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\obj\Debug\netcoreapp3.1\fake_hacked.csprojAssemblyReference.cache
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\obj\Debug\netcoreapp3.1\fake_hacked.AssemblyInfoInputs.cache
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\obj\Debug\netcoreapp3.1\fake_hacked.AssemblyInfo.cs
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\obj\Debug\netcoreapp3.1\fake_hacked.csproj.CoreCompileInputs.cache
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\obj\Debug\netcoreapp3.1\fake_hacked.dll
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\obj\Debug\netcoreapp3.1\fake_hacked.pdb
+C:\Users\ÇART APP\Desktop\fake_hacked\fake_hacked\obj\Debug\netcoreapp3.1\fake_hacked.genruntimeconfig.cache
